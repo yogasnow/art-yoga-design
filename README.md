@@ -8,6 +8,8 @@
 
 [ArtRave / Sound Atlas](https://github.com/yogasnow/art-rave-atlas-sound) — опубликованные материалы об искусстве и звуке. [Порядок работы с разделом Art](art/README.md).
 
+[Картины Снежаны](art/paintings/README.md) — отдельное пространство внутри Art; изображения добавим после отбора и сверки авторских оригиналов.
+
 ## Далее
 
 - **Yoga:** существующие [Astro-Yoga](https://github.com/yogasnow/astro-yoga) карточки; здесь раздел пока не собран.
