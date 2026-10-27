@@ -6,9 +6,11 @@
 
 ## 01 · Art — текущий этап
 
+[![Заглавная картина раздела Art](art/tactical-urbanism/images/07-botanical-triptych.jpg)](art/README.md)
+
 [ArtRave / Sound Atlas](https://github.com/yogasnow/art-rave-atlas-sound) — опубликованные материалы об искусстве и звуке. [Порядок работы с разделом Art](art/README.md).
 
-[Tactical Urbanism](art/tactical-urbanism/README.md) — первая подборка картин и авторской росписи: четыре работы, шесть изображений.
+[Tactical Urbanism](art/tactical-urbanism/README.md) — первая подборка картин и авторской росписи: четыре исходные работы, семь изображений. [Заглавная композиция Art](art/tactical-urbanism/images/07-botanical-triptych.jpg).
 
 ## Далее
 
