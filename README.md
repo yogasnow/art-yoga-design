@@ -8,7 +8,7 @@
 
 [ArtRave / Sound Atlas](https://github.com/yogasnow/art-rave-atlas-sound) — опубликованные материалы об искусстве и звуке. [Порядок работы с разделом Art](art/README.md).
 
-[Картины Снежаны](art/paintings/README.md) — первая подборка: три работы на пяти фотографиях.
+[Tactical Urbanism](art/tactical-urbanism/README.md) — первая подборка картин и авторской росписи: четыре работы, шесть изображений.
 
 ## Далее
 
